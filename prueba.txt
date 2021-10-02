@@ -1,7 +1,19 @@
 este es un ejemplo de agregar lineas en git
 
 
+
+dfdfdf
+
+
+dfdfdf
+
+
+
 esta seria la segunda linea desde git
 
 
 la tercera linea desde git
+
+
+
+dfdfdff
