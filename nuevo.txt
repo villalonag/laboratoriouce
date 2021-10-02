@@ -1,0 +1,43 @@
+
+Contenido del archivo de ejemplo
+
+
+total 19168
+drwxrwxr-x 3 villalonag villalonag     4096 oct  2 12:13 .
+drwxrwxr-x 4 villalonag villalonag     4096 oct  2 12:09 ..
+drwxrwxr-x 8 villalonag villalonag     4096 oct  2 12:08 .git
+-rw-rw-r-- 1 villalonag villalonag     4683 oct  2 11:38 listado2.txt
+-rw-rw-r-- 1 villalonag villalonag     4683 oct  2 11:38 listado3.txt
+-rw-rw-r-- 1 villalonag villalonag     9366 oct  2 11:38 listado4.dat
+-rw-rw-r-- 1 villalonag villalonag     4683 oct  2 11:38 listado4.txt
+-rw-rw-r-- 1 villalonag villalonag 19555652 oct  2 11:38 listado.txt
+-rw-rw-r-- 1 villalonag villalonag     4683 oct  2 11:38 listadox.dat
+-rw-rw-r-- 1 villalonag villalonag        0 oct  2 12:14 nuevo.txt
+-rw-rw-r-- 1 villalonag villalonag       80 oct  2 11:47 prueba2.txt
+-rw-rw-r-- 1 villalonag villalonag       97 oct  2 11:39 prueba.dat
+-rw-rw-r-- 1 villalonag villalonag       97 oct  2 11:38 prueba.txt
+
+
+
+lineas fnales del archivo
+
+lineasd finalesd
+
+
+d+2f6d2f6
+
+
+df
+df
+
+dfdf
+
+
+
+fdfdf
+d
+f
+d
+d
+fdf
+
